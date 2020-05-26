@@ -1,5 +1,5 @@
 [![logo.png][3]][2]
-![start](img/Schermata1FonZBetaZeta5.png) ![it runs](img/Schermata2FonZBetaZeta5.png) ![the fonts are ready to be chosen](img/Schermata3FonZBetaZeta5.png)
+
 [![Travis CI][5]][4] [![Slack Status][17]][18] [![Support](https://supporter.60devs.com/api/b/f4co3kmopd9mngbzjgn6ymbug)](https://supporter.60devs.com/give/f4co3kmopd9mngbzjgn6ymbug) [![Patreon][19]][20]
 
 > Drag and drop so simple it hurts
